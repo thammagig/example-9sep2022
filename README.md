@@ -1,4 +1,4 @@
-# example-9sep2022
+# Dogs breed identification
 
 Description of the app ...
 
